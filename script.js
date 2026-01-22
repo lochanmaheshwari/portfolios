@@ -150,7 +150,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'saasflash': {
             title: 'SaasFlash — Creative Director',
             subtitle: 'Leading Teams & Scaling Brands',
-            description: `Commanding the creative vision for SaasFlash, I lead an elite squad of 8 writers and 20 editors to dominate the SaaS media landscape. My portfolio includes crafting high-stakes narratives for industry titans like <strong>Greg Isenberg</strong> and <strong>Perplexity</strong>, and decoding the future with <strong>Evolving AI</strong>, <strong>Kalshi</strong>, and <strong>RPN</strong>. From deep-tech breakdowns to viral storytelling, I engineer content that scales brands to <strong>Million+ followers</strong> and drives massive engaged communities.`,
+            description: `<p><strong>Starting point:</strong> ~30,000 followers<br><strong>Ambition:</strong> Become the most premium tech content agency, not just another growth page</p><p>When I joined SaaSFlash, the page was already “good.” Editing quality was high, topics were relevant, and the team clearly cared about the product. But that was also the problem — it looked like every other good tech page.</p><p>What was missing was point of view.</p><p>The founders didn’t want SaaSFlash to be a meme page or a repurposing machine. They wanted clients to look at the page and think: “These people actually understand tech at a deep level.”</p><p>So my role naturally became less about volume and more about raising the intellectual ceiling of the content. I went deep into tech discourse: SaaS, startups, AI, infra, founders, distribution. Instead of summarizing news, I focused on:</p><ul><li>Why a trend exists</li><li>What people are misunderstanding</li><li>What this says about where tech is headed</li></ul><p>Every trending topic had to earn its place. If we covered it, it needed a clear POV, not just information. I wrote nuanced scripts that assumed the audience was smart and curious, not passive.</p><p>Several of the videos I wrote became the most viral pieces on the page, but more importantly, they shaped SaaSFlash’s identity. The page started feeling premium, opinionated, and thoughtful.</p><p>That positioning paid off beyond views. Clients started coming in because of the page itself. SaaSFlash closed 5–6 high-quality clients using the content as proof that they weren’t just editors — they were thinkers.</p>`,
             tweet: `<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/shiri_shh/status/2007137787359965423"></a></blockquote>`,
             videos: [
                 'https://www.instagram.com/reel/DS5Aq6NDIIS/embed',
@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'juneandlochan': {
             title: 'June & Lochan',
             subtitle: 'Creator & Builder',
-            description: `Building a cult community. Scaled from 0 to 50K followers in just 1 month.`,
+            description: `<p><strong>Personal project:</strong> 0 → 50K in under a month</p><p>This was deeply personal. I’d always wanted to talk about India — its politics, systems, contradictions — but I never wanted to be the face of the page. I was already overloaded with work and more comfortable behind the scenes.</p><p>So my girlfriend became the face, and I handled everything else: positioning, ideation, scripting.</p><p>We focused on topics people were already emotionally invested in, but framed them thoughtfully instead of sensationally. The response was immediate. The page hit 50,000 followers in under a month, proving that the ideas resonated when packaged correctly.</p>`,
             videos: [
                 'https://www.instagram.com/reel/DTozi9KgVN7/embed',
                 'https://www.instagram.com/reel/DSW4HSBAX7i/embed'
@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'beyonddegree': {
             title: 'Beyond Degree',
             subtitle: 'EdTech Media',
-            description: `Redefining education narratives and exploring alternative learning paths.`,
+            description: `<p><strong>First video:</strong> ~1.5M views</p><p>This project mattered because it aligned with my own beliefs. Marwadi University wanted an education page. I didn’t want to build another “degree = success” account. Instead, I positioned Beyond Degree around everything formal education doesn’t teach — skills, curiosity, and learning through real-world exposure.</p><p>I took inspiration from pages like Sei Com Sei, but added humor and cultural context. The very first video crossed ~1.5 million views, instantly validating the positioning.</p>`,
             videos: [
                 'https://www.instagram.com/reel/DMIQRbaMH9b/embed',
                 'https://www.instagram.com/reel/DQotgn-gS63/embed'
@@ -421,7 +421,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/saasflash1.png',
             growth: '30K → 115K',
             role: 'Creative Director',
-            description: '10 Million+ Views from 12 Videos. Leading a team of 8 writers and 20 editors, scaling multiple creator-led SaaS brands.',
+            description: `<p><strong>Starting point:</strong> ~30,000 followers<br><strong>Ambition:</strong> Become the most premium tech content agency, not just another growth page</p><p>When I joined SaaSFlash, the page was already “good.” Editing quality was high, topics were relevant, and the team clearly cared about the product. But that was also the problem — it looked like every other good tech page.</p><p>What was missing was point of view.</p><p>The founders didn’t want SaaSFlash to be a meme page or a repurposing machine. They wanted clients to look at the page and think: “These people actually understand tech at a deep level.”</p><p>So my role naturally became less about volume and more about raising the intellectual ceiling of the content. I went deep into tech discourse: SaaS, startups, AI, infra, founders, distribution. Instead of summarizing news, I focused on:</p><ul><li>Why a trend exists</li><li>What people are misunderstanding</li><li>What this says about where tech is headed</li></ul><p>Every trending topic had to earn its place. If we covered it, it needed a clear POV, not just information. I wrote nuanced scripts that assumed the audience was smart and curious, not passive.</p><p>Several of the videos I wrote became the most viral pieces on the page, but more importantly, they shaped SaaSFlash’s identity. The page started feeling premium, opinionated, and thoughtful.</p><p>That positioning paid off beyond views. Clients started coming in because of the page itself. SaaSFlash closed 5–6 high-quality clients using the content as proof that they weren’t just editors — they were thinkers.</p>`,
             metrics: [
                 '10M+ Views from 12 Videos',
                 'Managing team of 8 writers & 20 editors',
@@ -440,7 +440,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/greg1.png',
             growth: '15K → 78K',
             role: 'Writer / Strategist',
-            description: '10 Million+ Views from 12 Videos. Crafted startup strategy content that resonated with entrepreneurs and builders.',
+            description: `<p><strong>Starting point:</strong> ~15,000 Instagram followers<br><strong>Constraint:</strong> Grow Instagram without Greg being involved</p><p>Greg was already massive on Twitter and YouTube. Instagram was the outlier. He wanted growth there, but without recording content, hopping on calls, or managing the page himself.</p><p>So I treated Instagram like a systems problem, not a creator problem.</p><p>First, I studied his entire body of work: Twitter threads to understand how he frames ideas, YouTube videos to understand pacing and depth, His recurring mental models around startups, community, and leverage.</p><p>Then I asked two questions: What already works that we can adapt? What Instagram-native content is missing?</p><p>I built a pipeline where ideas were extracted from Twitter and YouTube, rewritten specifically for Instagram behavior, and turned into motion-first videos. For voice, we used 11Labs, so Greg never had to record anything.</p><p>I handled scripting end-to-end. I’d send Greg batches of five scripts, he’d leave comments, I’d refine them, move them into production, review edits, and then share v1 cuts for final input.</p><p>This wasn’t random experimentation — it was structured iteration. One of the videos I wrote became the most viral video on his Instagram page. Over time, the page grew from ~15K to ~80K followers, and Instagram became a real extension of his brand rather than an afterthought.</p>`,
             metrics: [
                 '10M+ Views from 12 Videos',
                 'Grew from 15K to 60K followers',
@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/den.png',
             growth: '20 Million+ Views',
             role: 'Content Director',
-            description: 'Creator economy content that educated and inspired fellow content creators.',
+            description: `<p><strong>Initial brief:</strong> Tech content<br><strong>Reality:</strong> Audience mismatch</p><p>Den initially wanted to create tech content. On paper, it made sense. But after publishing a few videos, I noticed something important: his audience didn’t care.</p><p>His audience was largely Dubai/UAE-based, and generic tech takes weren’t resonating at all. Instead of forcing the strategy, I paused and re-evaluated the audience itself.</p><p>The insight was simple: Den didn’t need to be a tech creator. He needed to be a Dubai thought leader.</p><p>We completely shifted positioning. Instead of tech-first content, we focused on: How Dubai works, Politics and governance, Why certain systems succeed, Cultural and economic insights.</p><p>Once the page had a clear identity, everything changed. Videos started crossing millions of views, with some touching 5 million+. The audience finally felt like the content was speaking to them, not at them.</p><p>This project taught me how important audience-context is — even the best ideas fail if they’re aimed at the wrong people.</p>`,
             metrics: [
                 'Grew from 70K to 80K followers',
                 'Creator economy focus',
@@ -474,7 +474,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/evolving.png',
             growth: '10M+ Views',
             role: 'Content Lead',
-            description: '10 Million+ Views from 12 Videos. Decoding the future of Artificial Intelligence for the masses.',
+            description: `<p><strong>Situation:</strong> Already viral, but shallow</p><p>Evolving AI already had reach. The founder’s feedback was clear: “The content works, but it lacks nuance.”</p><p>My job here wasn’t reinvention — it was depth injection.</p><p>I kept the same formats and viral mechanics, but rewrote scripts to: Add clearer arguments, Avoid hype-only framing, Explain tradeoffs instead of promises.</p><p>Essentially, I brought the same nuanced thinking I was using at SaaSFlash, but adapted it to an audience that was already paying attention.</p>`,
             metrics: [
                 '10M+ Views from 12 Videos',
                 'Making complex tech accessible',
@@ -490,7 +490,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/june.png',
             growth: '0 → 50K (1 month)',
             role: 'Creator',
-            description: 'My personal brand showcasing authentic storytelling and creative content.<br><br><a href="https://www.instagram.com/juneandlochan/" target="_blank" style="color: #e50914; text-decoration: none; font-weight: bold;">View on Instagram &rarr;</a>',
+            description: `<p><strong>Personal project:</strong> 0 → 50K in under a month</p><p>This was deeply personal. I’d always wanted to talk about India — its politics, systems, contradictions — but I never wanted to be the face of the page. I was already overloaded with work and more comfortable behind the scenes.</p><p>So my girlfriend became the face, and I handled everything else: positioning, ideation, scripting.</p><p>We focused on topics people were already emotionally invested in, but framed them thoughtfully instead of sensationally. The response was immediate. The page hit 50,000 followers in under a month, proving that the ideas resonated when packaged correctly.</p><br><a href="https://www.instagram.com/juneandlochan/" target="_blank" style="color: #e50914; text-decoration: none; font-weight: bold;">View on Instagram &rarr;</a>`,
             metrics: [
                 'Grew from 0 to 50K in just 1 month',
                 'Personal brand storytelling',
@@ -506,7 +506,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/beyond.png',
             growth: '0 → 30K Views',
             role: 'Founder',
-            description: 'Redefining education narratives and building a new age media company for students.<br><br><a href="https://www.instagram.com/beyonddegree.ig/" target="_blank" style="color: #e50914; text-decoration: none; font-weight: bold;">View on Instagram &rarr;</a>',
+            description: `<p><strong>First video:</strong> ~1.5M views</p><p>This project mattered because it aligned with my own beliefs. Marwadi University wanted an education page. I didn’t want to build another “degree = success” account. Instead, I positioned Beyond Degree around everything formal education doesn’t teach — skills, curiosity, and learning through real-world exposure.</p><p>I took inspiration from pages like Sei Com Sei, but added humor and cultural context. The very first video crossed ~1.5 million views, instantly validating the positioning.</p><br><a href="https://www.instagram.com/beyonddegree.ig/" target="_blank" style="color: #e50914; text-decoration: none; font-weight: bold;">View on Instagram &rarr;</a>`,
             metrics: [
                 'Building an EdTech media brand',
                 'Focus on student narratives',
@@ -523,7 +523,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/keshav.png',
             growth: '15K → 142K',
             role: 'Marketing Manager',
-            description: 'Strategic content for MBA aspirants, blending humor with high-value educational insights.',
+            description: `<p><strong>From company page to personal brand</strong></p><p>Keshav initially hired me to grow his company page. Once results came in, he asked me to work on his personal brand as well.</p><p>I noticed a gap no one was serving properly: Commerce students, Remote job seekers, People looking for practical guidance, not motivation.</p><p>I positioned Keshav as the face of that gap. We used DM automation, clear CTAs, and consistent framing to turn attention into growth.</p>`,
             metrics: [
                 'Growing community of MBA aspirants',
                 'Engaging educational content',
@@ -538,7 +538,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/geeks.png',
             growth: '400K → 1.1 Million',
             role: 'Content Strategist',
-            description: 'Transformed GFG\'s content strategy with trend analysis, engaging hooks, and personality-driven storytelling.',
+            description: `<p><strong>Starting point:</strong> ~400K subscribers, ~2K views</p><p>This was my first big brand project — and the most challenging. Despite having a huge subscriber base, GeeksforGeeks couldn’t get views. The problem wasn’t content quality; it was mindset. They were still making content like it was 2017.</p><p>I did competitive analysis, identified working formats, and helped build: Strong short-form hooks, Repeatable IPs, Better pacing for modern platforms.</p><p>Once we doubled down on what worked, growth followed — both in shorts and long-form.</p>`,
             metrics: [
                 'Achieved 1.1M+ subscribers',
                 'Implemented trend-based content strategy',
@@ -557,7 +557,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/sahil.png',
             growth: '0 → 150K',
             role: 'Writer / Director',
-            description: 'Built a Canadian data enthusiast community from scratch through strategic content and engaging storytelling.',
+            description: `<p><strong>Starting point:</strong> Very small audience<br><strong>Breakthrough:</strong> First video crossed 1M+ views</p><p>Sahil was one of those rare cases where the raw material was already there — it just hadn’t been framed properly yet.</p><p>He had a real story. He had moved from India to Canada, struggled, figured things out, and had genuine insight into data, careers, and learning. The mistake most people make in situations like this is jumping straight into “educational content.” I didn’t do that.</p><p>Instead, I leaned into story first, expertise second. For the first few pieces, I focused almost entirely on: His move from India to Canada, The struggle and uncertainty, The contrast between expectations and reality, What he learned the hard way.</p><p>The first video we published crossed 1 million views. That wasn’t because of clever editing — it was because people connected with the narrative. Once the audience cared about him, the educational content started landing much more naturally. From there, the page grew steadily, eventually reaching ~150K followers. Sahil wasn’t just another data guy anymore — he was a person with a journey, and that made all the difference.</p>`,
             metrics: [
                 'Grew from 480 to 150K followers',
                 'Created viral Instagram reels',
@@ -575,7 +575,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/binge.png',
             growth: '20K → 150K',
             role: 'Strategist',
-            description: 'Combined financial storytelling with lifestyle content to create a unique brand voice.',
+            description: `<p><strong>My first finance-focused page</strong><br><strong>Growth:</strong> ~20K → ~150K (when I left)</p><p>Finance content is tricky because it can very easily become boring, intimidating, or spammy. When I joined Binge Wealth, my role was to make finance watchable without making it irresponsible.</p><p>I spent a lot of time tracking: What financial news people were already reacting to, Which topics created anxiety or curiosity, What formats made people actually stay till the end.</p><p>My job was essentially translation. Every trend, update, or concept had to be broken down into something: Simple, Relatable, Slightly entertaining, But still accurate.</p><p>We leaned heavily into trending topics, but always framed them around everyday impact rather than jargon. Over time, this approach helped the page grow rapidly. By the time I left, Binge Wealth had crossed ~150,000 followers and continued growing after.</p>`,
             metrics: [
                 'Grew from 20K to 150K followers',
                 'Financial storytelling meets lifestyle',
@@ -591,7 +591,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'assets/zerodha.png',
             growth: '30K → 100K',
             role: 'Content Strategist',
-            description: 'Simplified complex trading concepts for beginners, making finance accessible and engaging.',
+            description: `<p><strong>My first account for a large company</strong><br><strong>Format:</strong> Daily long-form scripts<br><strong>Focus:</strong> Clarity over hype</p><p>Markets by Zerodha was very different from everything I’d done before. This wasn’t a creator page or a startup experimenting with formats — this was a large, trusted financial brand.</p><p>The requirement was intense. Every day, I had to: Track the biggest financial news, Identify the most important 2–3 stories, Research them properly, Write long-form scripts explaining what happened and why it mattered.</p><p>The hardest part wasn’t writing — it was responsibility. The content had to be: Accurate, Neutral, Easy enough for beginners, But not oversimplified.</p><p>This role forced me to go deep into finance, markets, and macro trends. I learned how to explain complex ideas clearly, without drama or shortcuts. It was demanding, repetitive, and honestly exhausting at times — but it sharpened my ability to research and communicate under pressure.</p>`,
             metrics: [
                 'Grew from 30K to 100K subscribers',
                 'Simplified trading for beginners',
@@ -697,24 +697,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // 1. Handle Dropdown Selection
     profileOptions.forEach(option => {
         option.addEventListener('click', () => {
-             const newIcon = option.querySelector('.mini-avatar').cloneNode(true);
-             if(currentProfileIcon) {
-                 currentProfileIcon.innerHTML = '';
-                 currentProfileIcon.appendChild(newIcon);
-             }
+            const newIcon = option.querySelector('.mini-avatar').cloneNode(true);
+            if (currentProfileIcon) {
+                currentProfileIcon.innerHTML = '';
+                currentProfileIcon.appendChild(newIcon);
+            }
         });
     });
 
     // 2. Sync Initial Selection from Landing Page
-    if(profileCards){
+    if (profileCards) {
         profileCards.forEach(card => {
-            card.addEventListener('click', function() {
+            card.addEventListener('click', function () {
                 const profile = this.getAttribute('data-profile');
                 const option = document.querySelector(`.profile-option[data-profile="${profile}"]`);
                 if (option && currentProfileIcon) {
-                     const newIcon = option.querySelector('.mini-avatar').cloneNode(true);
-                     currentProfileIcon.innerHTML = '';
-                     currentProfileIcon.appendChild(newIcon);
+                    const newIcon = option.querySelector('.mini-avatar').cloneNode(true);
+                    currentProfileIcon.innerHTML = '';
+                    currentProfileIcon.appendChild(newIcon);
                 }
             });
         });
