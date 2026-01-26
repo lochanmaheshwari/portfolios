@@ -1416,17 +1416,27 @@ a:hover {
 
     /* Hero Section */
     .hero {
-        height: 100vh;
-        /* Full screen height to ensure fit */
+        height: 65vh;
+        /* Reduced from 100vh to fit content better */
         position: relative;
-        display: block;
-        /* Switch to block to allowing absolute children to behave */
+        display: flex;
+        /* Back to flex for alignment if needed, but absolute children override */
         overflow: hidden;
         padding: 0;
+        margin-bottom: 0;
     }
 
     .hero-video-container {
         height: 100%;
+        width: 100%;
+    }
+
+    #hero-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+        /* Ensure face is centered */
     }
 
     .hero::after {
@@ -1436,24 +1446,24 @@ a:hover {
         left: 0;
         right: 0;
         bottom: 0;
-        background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 75%, #000 100%);
+        /* Heavy bottom gradient to merge with next section */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 40%, rgba(15, 15, 15, 0.8) 80%, #0f0f0f 100%);
         pointer-events: none;
         z-index: 1;
     }
 
     .hero-content {
         z-index: 10;
-        padding: 0 5%;
+        padding: 0 1.5rem 2rem 1.5rem;
+        /* Padding bottom to lift off edge slightly */
         text-align: center;
-        margin-bottom: 0;
-        max-width: 100%;
         width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
         position: absolute;
-        bottom: 25%;
-        /* Lift up considerably */
+        bottom: 0;
+        /* Anchor to bottom */
         left: 0;
         right: 0;
     }
@@ -1518,7 +1528,18 @@ a:hover {
     /* Top Picks */
     .top-picks {
         margin-top: 0;
-        padding: 1rem 1rem 2rem 1rem;
+        padding: 0rem 1rem 2rem 1rem;
+        /* Removed top padding to sit flush with gradient */
+        z-index: 10;
+        position: relative;
+    }
+
+    .section-title.top-picks-title {
+        font-size: 1rem;
+        margin-left: 0.2rem;
+        margin-bottom: 0.8rem;
+        color: #e5e5e5;
+        font-weight: 600;
     }
 
     .pick-card {
