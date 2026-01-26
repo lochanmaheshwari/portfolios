@@ -125,7 +125,20 @@ document.addEventListener('DOMContentLoaded', function () {
                 const targetSection = document.getElementById(targetId);
 
                 if (targetSection) {
-                    const navHeight = document.querySelector('.navbar').offsetHeight;
+                    const nav = document.querySelector('.navbar');
+                    const bottomNav = document.querySelector('.mobile-bottom-nav');
+                    let navHeight = 0;
+
+                    // Determine which nav is active/visible or just use a safe offset
+                    if (window.innerWidth <= 768) {
+                        // On mobile, maybe no top offset is needed if bottom nav is used, 
+                        // OR we want to scroll to top. 
+                        // Usually 0 or small padding is fine. 
+                        navHeight = 0;
+                    } else {
+                        navHeight = nav ? nav.offsetHeight : 0;
+                    }
+
                     const targetPosition = targetSection.offsetTop - navHeight;
 
                     window.scrollTo({
@@ -472,17 +485,17 @@ document.addEventListener('DOMContentLoaded', function () {
         'evolving': {
             name: 'Evolving AI',
             image: 'assets/evolving.png',
-            growth: '5M+ Views',
+            growth: '10M+ Views',
             role: 'Content Lead',
             description: `<p><strong>Situation:</strong> Already viral, but shallow</p><p>Evolving AI already had reach. The founder’s feedback was clear: “The content works, but it lacks nuance.”</p><p>My job here wasn’t reinvention — it was depth injection.</p><p>I kept the same formats and viral mechanics, but rewrote scripts to: Add clearer arguments, Avoid hype-only framing, Explain tradeoffs instead of promises.</p><p>Essentially, I brought the same nuanced thinking I was using at SaaSFlash, but adapted it to an audience that was already paying attention.</p>`,
             metrics: [
-                '5M+ Views from 8 Videos',
+                '10M+ Views from 12 Videos',
                 'Making complex tech accessible',
                 'Viral AI Narratives'
             ],
             videos: [
-                'https://www.instagram.com/p/DQMcbqik1QX/embed',
-                'https://www.instagram.com/p/DNGciXsN3ur/embed'
+                'https://www.instagram.com/reel/DSNVudxj3uF/embed',
+                'https://www.instagram.com/p/DQ62JwGj6Gr/embed'
             ]
         },
         'personal': {
