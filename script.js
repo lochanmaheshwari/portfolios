@@ -1,4 +1,4 @@
-// ============================================
+ // ============================================
 // LANDING PAGE - WHO'S WATCHING
 // ============================================
 document.addEventListener('DOMContentLoaded', function () {
@@ -472,17 +472,17 @@ document.addEventListener('DOMContentLoaded', function () {
         'evolving': {
             name: 'Evolving AI',
             image: 'assets/evolving.png',
-            growth: '10M+ Views',
+            growth: '5M+ Views',
             role: 'Content Lead',
             description: `<p><strong>Situation:</strong> Already viral, but shallow</p><p>Evolving AI already had reach. The founder’s feedback was clear: “The content works, but it lacks nuance.”</p><p>My job here wasn’t reinvention - it was depth injection.</p><p>I kept the same formats and viral mechanics, but rewrote scripts to: Add clearer arguments, Avoid hype-only framing, Explain tradeoffs instead of promises.</p><p>Essentially, I brought the same nuanced thinking I was using at SaaSFlash, but adapted it to an audience that was already paying attention.</p>`,
             metrics: [
-                '10M+ Views from 12 Videos',
+                '5M+ Views from 8 Videos',
                 'Making complex tech accessible',
                 'Viral AI Narratives'
             ],
             videos: [
-                'https://www.instagram.com/reel/DSNVudxj3uF/embed',
-                'https://www.instagram.com/p/DQ62JwGj6Gr/embed'
+                'https://www.instagram.com/p/DQMcbqik1QX/embed',
+                'https://www.instagram.com/p/DNGciXsN3ur/embed'
             ]
         },
         'personal': {
