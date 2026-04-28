@@ -484,11 +484,11 @@ document.addEventListener('DOMContentLoaded', function () {
         'personal': {
             name: 'June & Lochan',
             image: 'assets/june.png',
-            growth: '0 → 50K (1 month)',
+            growth: '0 → 300k (4 month)',
             role: 'Creator',
             description: `<p><strong>Personal project:</strong> 0 → 50K in under a month</p><p>This was deeply personal. I’d always wanted to talk about India - its politics, systems, contradictions - but I never wanted to be the face of the page. I was already overloaded with work and more comfortable behind the scenes.</p><p>So my girlfriend became the face, and I handled everything else: positioning, ideation, scripting.</p><p>We focused on topics people were already emotionally invested in, but framed them thoughtfully instead of sensationally. The response was immediate. The page hit 50,000 followers in under a month, proving that the ideas resonated when packaged correctly.</p><br><a href="https://www.instagram.com/juneandlochan/" target="_blank" style="color: #e50914; text-decoration: none; font-weight: bold;">View on Instagram &rarr;</a>`,
             metrics: [
-                'Grew from 0 to 50K in just 1 month',
+                'Grew from 0 to 300K in just 4 month',
                 'Personal brand storytelling',
                 'Authentic creative content'
             ],
